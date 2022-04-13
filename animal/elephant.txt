@@ -1,1 +1,2 @@
 This is an elephant.
+Elephant is heavy.
