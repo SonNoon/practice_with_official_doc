@@ -1,1 +1,2 @@
 This is an Apple.
+Apple is red.
