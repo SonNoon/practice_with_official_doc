@@ -1,3 +1,4 @@
 This is an Apple.
 Apple is red.
-Test for adding tag when push
+Test for adding tag when push -> Not added
+Test again.
